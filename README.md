@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![White   Green Mobile Mockup Photo Collage Beauty Facebook Post (1)](https://user-images.githubusercontent.com/74376063/230608887-955d6755-2619-4fd4-bfd1-c04685a20dbb.png)
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
